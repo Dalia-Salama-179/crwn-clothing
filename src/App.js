@@ -1,9 +1,10 @@
+import Categories from "./components/categories/categories.components";
+
 const App = () => {
+
   return (
-    <div className="App">
-      Init
-    </div>
-  );
+      <Categories />
+  )
 }
 
 export default App;
